@@ -1,6 +1,6 @@
 # Photo Gallery
 
-React + Vite + Tailwind CSS photo gallery for the Celebrare pre-screening assignment.
+React + Vite + Tailwind CSS photo gallery over a live photo API.
 
 - Fetches 30 photos from `https://picsum.photos/v2/list?limit=30` (spinner while loading, message on error)
 - Responsive grid: 4 columns on desktop, 2 on tablet, 1 on mobile
